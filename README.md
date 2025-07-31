@@ -1,8 +1,11 @@
-# retroid-pocket-classic-overlays
-A collection of overlays for the Retroid Pocket Classic handheld device.
+# Retroid Pocket Classic Overlays
+A collection of overlays for the [Retroid Pocket Classic](https://www.goretroid.com/products/retroid-pocket-classic) handheld device.
+
+> **Note**
+> These overlays are also compatible with the Retroid Pocket Mini V2 and the Ayaneo Pocket DMG.
 
 ## Game Boy Advance
-### Integer Scale / No Grid
+### Integer Scale / No Grid / Inset Shadow
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td width="50%" align="center">
